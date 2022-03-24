@@ -1,6 +1,6 @@
 ---
 id: 91
-title: '&#8220;Am I Naive For Wanting Something Better&#8221;'
+title: Am I Naive For Wanting Something Better'
 date: 2021-08-31T05:31:21-07:00
 author: Suzza Silver
 layout: post
