@@ -1,7 +1,7 @@
 ---
 id: 18
 title: The Role of Music and Mood
-date: 2022-03-21T10:08:50-07:00
+date: 2022-03-21T05:00:00-07:00
 author: Suzza Silver
 layout: post
 guid: https://bipolarlife.net/?p=18
